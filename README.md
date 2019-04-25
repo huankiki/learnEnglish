@@ -14,7 +14,7 @@ Materials for Learning English by listening, repeating and speaking everyday
  非常好又全的资源，练习句子精听。  
  剑雅11-Test2，听力5分，阅读5分@4/23/2019。主要问题：@听力——语速快/听不太懂/听得少/词汇，@阅读：词汇/阅读速度/**无法快速理解大段英文文章的主题**，@第一次接触题型/时间上的紧迫感，无法专注。  
  后续：摸透这一套题，然后对症下药。
- 
+
 
  ## Study Record
  |资源|描述|笔记|
@@ -24,6 +24,7 @@ Materials for Learning English by listening, repeating and speaking everyday
  |how.i.met.your.mother.s01e01|老爸老妈浪漫史第一季第一集|盲听>>看字幕听>>盲听>>反复听<br>英文字幕资源的Timeline有问题，Solution：中文字幕的Timeline + 英文字幕，用Python脚本完成这种形式的合成☺|
  |[C11-TEST2-Section1](http://ielts.kmf.com/listen?id=cc54ph)|Enquiry About Joining Youth Council|句子精听>反复>全文精听>句子精听<br>Section1相对简单，主要问题：1，语速快；2，英语连读；3，听得少，听到之后无法立马理解句子意思，所以一大段听力下来，基本上只听懂40%-50%。<br>全文精听与句子精听同样重要。|
  |[全世界最孤独的小镇](http://open.163.com/movie/2016/5/I/Q/MBM3GGR6M_MBM8KECIQ.html)|网易公开课视频|用[网易见外工作台](https://jianwai.netease.com)完成了视频的中英文字幕: [srt_file](./resource/Longyearbyen_The_World’s_Northernmost_Town.srt)<br>现在的机器翻译、视频翻译水平太好了，非常实用|
+ |[why-sequence-models](https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models)|Sequence Models at Coursera|Ng的最新课程，学起来～<br>英语学习材料无处不在。|
 
  ## Vocabulary Notebook
  [Vocabulary_Notebook.md](./resource/vocab_notebook.md)
