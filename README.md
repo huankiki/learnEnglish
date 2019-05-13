@@ -23,6 +23,7 @@ Materials for Learning English by listening, repeating and speaking everyday
  |[Dan Gilbert：The surprising science of happiness](https://www.ted.com/talks/dan_gilbert_asks_why_are_we_happy)|TED Talk Year2004||
  |how.i.met.your.mother.s01e01|老爸老妈浪漫史第一季第一集|盲听>>看字幕听>>盲听>>反复听<br>英文字幕资源的Timeline有问题，Solution：中文字幕的Timeline + 英文字幕，用Python脚本完成这种形式的合成☺|
  |[C11-TEST2-Section1](http://ielts.kmf.com/listen?id=cc54ph)|Enquiry About Joining Youth Council|句子精听>反复>全文精听>句子精听<br>Section1相对简单，主要问题：1，语速快；2，英语连读；3，听得少，听到之后无法立马理解句子意思，所以一大段听力下来，基本上只听懂40%-50%。<br>全文精听与句子精听同样重要。|
+ |[C4-TEST1-Section1](http://ielts.kmf.com/listen?id=c4ca1r)|School Programme|大部分听懂，细节错误：12听成25，13th拼写成13rd等|
  |[全世界最孤独的小镇](http://open.163.com/movie/2016/5/I/Q/MBM3GGR6M_MBM8KECIQ.html)|网易公开课视频|用[网易见外工作台](https://jianwai.netease.com)完成了视频的中英文字幕: [srt_file](./resource/Longyearbyen_The_World’s_Northernmost_Town.srt)<br>现在的机器翻译、视频翻译水平太好了，非常实用|
  |[why-sequence-models](https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models)|Sequence Models at Coursera|Ng的最新课程，学起来～<br>英语学习材料无处不在。|
  |[卡梅伦辞职演讲](http://open.163.com/movie/2016/6/B/8/MBPKSND16_MBPKSSHB8.html?recomend=2)|网易公开课视频|多听，一点点摆脱对字幕的依赖<br>靠耳朵和大脑听，用心去理解|
