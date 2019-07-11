@@ -29,6 +29,7 @@ Materials for Learning English by listening, repeating and speaking everyday
  |[why-sequence-models](https://www.coursera.org/learn/nlp-sequence-models/lecture/0h7gT/why-sequence-models)|Sequence Models at Coursera|Ng的最新课程，学起来～<br>英语学习材料无处不在。|
  |[卡梅伦辞职演讲](http://open.163.com/movie/2016/6/B/8/MBPKSND16_MBPKSSHB8.html?recomend=2)|网易公开课视频|多听，一点点摆脱对字幕的依赖<br>靠耳朵和大脑听，用心去理解|
  |[The secrets of learning a new language](https://www.ted.com/talks/lydia_machova_the_secrets_of_learning_a_new_language#t-6345)<br>[中文字幕版](https://v.qq.com/x/cover/xygbc3azogjj2xf/m0870uckumt.html)|TED|非常清晰的发音，速度适中，很喜欢听！|
+ |[What almost dying taught me about living](https://www.ted.com/talks/suleika_jaouad_what_almost_dying_taught_me_about_living#t-1031537)|TED Talks|very moving and impressive: How to face sickness and life❤ |
 
  ## Vocabulary Notebook
  [Vocabulary_Notebook.md](./resource/vocab_notebook.md)
